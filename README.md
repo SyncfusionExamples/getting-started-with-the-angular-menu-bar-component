@@ -72,7 +72,7 @@ Angular Menu Bar templates is used to create custom user experience. It provides
 
 [Online example](https://ej2.syncfusion.com/angular/demos/#/bootstrap5/menu/default?utm_source=github&utm_medium=listing&utm_campaign=angular-menu-bar-github-samples)
 
-### About Syncfusion Angular UI Components
+## About Syncfusion Angular UI Components
 
 Syncfusion's Angular UI Components library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Menu Bar, we provide popular Angular Components such as [DataGrid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-menu-bar-github-samples), [Charts](https://www.syncfusion.com/angular-components/angular-charts?utm_source=github&utm_medium=listing&utm_campaign=angular-menu-bar-github-samples), [Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler?utm_source=github&utm_medium=listing&utm_campaign=angular-menu-bar-github-samples), [Diagram](https://www.syncfusion.com/angular-components/angular-diagram?utm_source=github&utm_medium=listing&utm_campaign=angular-menu-bar-github-samples), and [Word Processor](https://www.syncfusion.com/angular-components/angular-word-processor?utm_source=github&utm_medium=listing&utm_campaign=angular-menu-bar-github-samples).
 
