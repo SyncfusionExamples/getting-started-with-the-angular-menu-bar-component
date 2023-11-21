@@ -33,7 +33,7 @@ Run ng serve command for a dev server. Navigate to http://localhost:4200/. The a
 
 ### Data binding
 
-Menu in Angular can be bound to data in the form of JavaScript object array collection. It supports self-referential or hierarchical structure of data.
+Menu in Angular can be bound to data in the form of JavaScript object array collection. It supports [self-referential](https://ej2.syncfusion.com/angular/documentation/menu/data-source-binding-and-custom-menu-items#self-referential-data) or [hierarchical](https://ej2.syncfusion.com/angular/documentation/menu/data-source-binding-and-custom-menu-items#hierarchical-data) structure of data.
 
 ### Menu Item Icons
 
@@ -49,7 +49,7 @@ Angular Menu with rich UI supports its alignment in either vertical or horizonta
 
 ### Multi-level nesting
 
-Menu supports multi-level nested items. You can browse the sub-menu by hovering or clicking a parent item.
+Menu supports [multi-level nested](https://ej2.syncfusion.com/angular/documentation/menu/icons-and-sub-menu-items#multilevel-nesting) items. You can browse the sub-menu by hovering or clicking a parent item.
 
 ### Menu Bar Templates
 
@@ -64,7 +64,7 @@ Angular Menu Bar templates is used to create custom user experience. It provides
 
 [Documentation](https://ej2.syncfusion.com/angular/documentation/menu/getting-started?utm_source=github&utm_medium=listing&utm_campaign=angular-menu-bar-github-samples)
 
-[View Demos](https://github.com/SyncfusionExamples/getting-started-with-the-angular-menu-bar-component?utm_source=github&utm_medium=listing&utm_campaign=angular-toolbar-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/getting-started-with-the-angular-menu-bar-component?utm_source=github&utm_medium=listing&utm_campaign=angular-menu-bar-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/angular-js2?utm_source=github&utm_medium=listing&utm_campaign=angular-menu-bar-github-samples)
 
