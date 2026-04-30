@@ -1,33 +1,36 @@
 # Getting Started with the Angular Menu Bar Component
-The [Angular Menu Bar](https://www.syncfusion.com/angular-components/angular-menu-bar?utm_source=github&utm_medium=listing&utm_campaign=angular-menu-bar-github-samples) is a graphical user interface component that serves as a navigation header for your web application or site. A quick start Angular project that shows how to add a Menu Bar component to an Angular app. This project also includes a code snippet to bind hierarchical data, self-referential data and complex data to the menu component. 
 
-# Project pre-requisites
+**Repository Description**  
+This repository contains a quick‑start Angular sample that demonstrates how to integrate and configure the Syncfusion Angular Menu Bar component in an Angular application.
 
-Make sure that you have the compatible versions of TypeScript and Angular in your machine before starting to work on this project.
+The Angular Menu Bar is a graphical user interface component that serves as a navigation header for web applications. This project demonstrates how to add the Menu Bar component to an Angular app and bind hierarchical, self‑referential, and complex data sources to the menu.
 
-Angular 4+
+## Project Overview
+The purpose of this project is to help developers understand how to use the Syncfusion Angular Menu Bar component to create structured and dynamic navigation menus. It focuses on data binding techniques, menu orientation, templates, and multi‑level navigation.
 
-TypeScript 2.6+
+## Project Pre‑requisites
+Make sure that you have the compatible versions of Angular and TypeScript installed before starting to work on this project.
 
-# How to run this application?
+- Angular 4 or later  
+- TypeScript 2.6 or later  
 
-To run this application, you need to first clone the getting-started-with-the-angular-menu-bar-component repository and then navigate to its appropriate path where it has been in your system.
+## Installation and Running the Application
 
-To do so, open the command prompt and run the below commands one after the other.
-
-git clone angular-example
-
-cd angular-example
-
-# Installing
-
-Once done with downloading, next you need to install the necessary packages required to run this application locally. The npm install command will install all the needed angular packages into your current project and to do so, run the below command.
-
+### Clone the Repository
+```bash
+git clone https://github.com/SyncfusionExamples/getting-started-with-the-angular-menu-bar-component.git
+```
+### Installing Dependencies
+Install the necessary Angular packages required to run this application locally using the following command:
+```bash
 npm install
-
-# Running on development server
-
-Run ng serve command for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+```
+### Running on Development Server
+Run the Angular development server using:
+```bash
+ng serve
+```
+Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Features and benefits
 
@@ -71,6 +74,12 @@ Angular Menu Bar templates is used to create custom user experience. It provides
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-menu-bar-github-samples)
 
 [Online example](https://ej2.syncfusion.com/angular/demos/#/bootstrap5/menu/default?utm_source=github&utm_medium=listing&utm_campaign=angular-menu-bar-github-samples)
+
+## Troubleshooting
+- Ensure Angular and TypeScript versions meet the minimum requirements.
+- Run npm install again if package installation fails.
+- Restart the development server if menu updates are not reflected.
+- Check the browser console for runtime or configuration errors.
 
 ## About Syncfusion Angular UI Components
 
