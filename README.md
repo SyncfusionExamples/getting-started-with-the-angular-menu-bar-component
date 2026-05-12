@@ -1,6 +1,5 @@
 # Getting Started with the Angular Menu Bar Component
 
-**Repository Description**  
 This repository contains a quick‑start Angular sample that demonstrates how to integrate and configure the Syncfusion Angular Menu Bar component in an Angular application.
 
 The Angular Menu Bar is a graphical user interface component that serves as a navigation header for web applications. This project demonstrates how to add the Menu Bar component to an Angular app and bind hierarchical, self‑referential, and complex data sources to the menu.
